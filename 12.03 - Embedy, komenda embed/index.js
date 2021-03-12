@@ -3,7 +3,7 @@ const client = new Discord.Client()
 const fs = require('fs')
 
 const prefix = '!'
-const token = 'ODE4OTAxNjIxMDcyMzMwNzgy.YEezkA.BtcAWV_Qgef4krMSfKqEcYXtF98'
+const token = 'Twój Token'
 
 client.once('ready', () => {
     console.log('Bot jest gotowy!')
