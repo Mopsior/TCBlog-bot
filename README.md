@@ -1,7 +1,5 @@
 # TCBlog bot
 
-# WAŻNE! Nowe części pojawiają się w osobnych Branchach!
-
 Polski:
 <br>
 To jest repozytorium od bota robionego na blogu [tcblog.pl](https://tcblog.pl)!
